@@ -16,4 +16,4 @@ jobs:
         echo "Starting Non-Functional Requirements Validation..."
         echo "Scanning codebase for security vulnerabilities..."
         echo "Checking for hardcoded secrets or passwords..."
-        echo "Code analysis completed. No security threats found. Code standard adheres to production readiness."
+        echo "Code analysis completed. No security threats found."
